@@ -1,0 +1,59 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #7F8CAA;
+            color: #302f2d;
+            text-align: center;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+           
+
+        }
+
+        li {
+            display: inline;
+            margin-right: 10px;
+            font-size: large;
+            color: #333;
+        
+
+           
+        }
+
+        img {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            margin-top: 20px;
+          
+        }
+        .softskills {
+            
+        list-style: none;
+        display: list-item;
+            
+        }
+
+        .skills {
+            list-style: none;
+            display: list-item;
+        }
+
+        .hobbies {
+            list-style: none;
+            display: list-item;
+        }
+        
+        p {
+            font-size: 18px;
+            color: #110f0f;
+        }
+
+       h2 {
+            color: #110909;
+            font-size: 24px;
+            margin-top: 20px;
+       }
